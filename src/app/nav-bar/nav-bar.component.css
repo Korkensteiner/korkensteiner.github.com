@@ -2,3 +2,9 @@
   width: 100%;
   background-color: rgb(73, 120, 32);
 }
+
+ul {
+  display: inline;
+  list-style: none;
+}
+

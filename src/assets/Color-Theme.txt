@@ -1,3 +1,0 @@
-green: rgb(73, 120, 32)
-
-bright-green : rgb(147, 190, 108)
